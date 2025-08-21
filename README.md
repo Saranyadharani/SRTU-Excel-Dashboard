@@ -9,7 +9,7 @@ The dataset was cleaned, transformed, and visualized into a **dashboard** that h
 ## 🛠 Steps Performed  
 1. **Data Cleaning**  
    - Removed unnecessary fields that did not add analytical value.  
-   - Standardized text formatting (case, spaces).  
+   - Standardized text formatting (case,spaces).  
    - Eliminated duplicates and blank values.  
    - Converted negative values into positive using ABS() for consistent reporting.  
 
