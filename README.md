@@ -55,6 +55,20 @@ The dataset was cleaned, transformed, and visualized into a **dashboard** that h
 - `README.md` → Project documentation  
 
 ---
+---
+
+## 📷 Dashboard Preview  
+
+![SRMT Dashboard](excelwork1.png)  
+
+---
+
+## ✅ Conclusion  
+This project demonstrates how **Excel can transform raw transport data into meaningful insights** with professional dashboards and KPIs, making it suitable for quick business reporting.  
+
+---
+
+✨ Saranya M
 
 ## ✅ Conclusion  
 This project demonstrates how **Excel can transform raw transport data into meaningful insights** with professional dashboards and KPIs, making it suitable for quick business reporting.  
